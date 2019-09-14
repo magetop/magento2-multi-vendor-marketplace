@@ -4,33 +4,33 @@
 
 ## Highlight features
 
-- Magento Dashboard : A Very new and Enhanced Dashboard for Magento users
-- Vendor Registration Page : Sellers can register their Business by registering through “Vendor Registration Page”
-- Vendor Verification : Workflow to collect and verify scanned documents from Vendors while registering on marketplace
-- Vendors Listing Page : Listing vendors / suppliers on the basis of product categories
-- Same Product by different Vendors : All vendors based on particular search for a given products will be listed together
-- Vendors Shipping : Vendors can set up the shipping charges for each of their product separately
-- Seller Vacation Mode : Sellers can use the 'Seller Vacation Mode' option to notify their customers about their inactivity
-- All Product Type Supported : Vendor can create all types of products which are supported by Magento i.e. Simple & Configurable products
-- Manual / Automatic Product Approval : Vendor products can be approved automatically or manually
-- Enable / Disable Products : Vendor can enable / disable their products
-- Real-time Product Status : Product gets de-activated / deleted when Vendors are disabled / deleted
-- Bulk Product Import & Export : Vendors can import & export products in bulk via CSV file
-- Multiple Products(s) Checkout at once : Customer can purchase the product from various vendors / sellers at once
-- Order, Vendor / Product Approval Notifications : Admin can enable / disable notification email for Order, Vendor / Product anytime
-- Email Templates : Using Email Templates, seller will receive product sold notification email with their product details
-- Vendor Order & Invoice Management : Separate section for managing Vendors including their commissions, avatars, transactions etc
-- Commission Management : You can set different commission rates for different vendors
-- Payment History & Transaction Report : View complete account statement with credit & debit transactions for each Vendor
-- Supports Offline Transactions : Admin can record offline transactions for each Vendor
-- Vendor-Customer Messaging : Vendor-Customer Messaging feature lets the customers to reach their vendors more easily
-- Seller / Vendor Review(s) Rating Management : Customers can provide feedback for products which creates Vendor ratings automatically
-- Paypal and Stripe details : Allow vendors to save their paypal and stripe details into their profile
-- Mobile Apps : Magemo Mobile App for your Multi-vendor Marketplace stores
-- Lifetime Upgrades : Free Lifetime upgrade for our Customers
-- Open Source and easy customization : Source code is Open so can be easily customized
-- Compatible with all Magento 2 verisons : Medma Marketplace Extension is now compatible with Magento 2.x version
-- Many More Features : Regularly adding many useful features in the extension
+- A Very new and Enhanced Dashboard for Magento users
+- Sellers can register their Business by registering through “Vendor Registration Page”
+- Workflow to collect and verify scanned documents from Vendors while registering on marketplace
+- Listing vendors / suppliers on the basis of product categories
+- All vendors based on particular search for a given products will be listed together
+- Vendors can set up the shipping charges for each of their product separately
+- Sellers can use the 'Seller Vacation Mode' option to notify their customers about their inactivity
+- Vendor can create all types of products which are supported by Magento i.e. Simple & Configurable products
+- Vendor products can be approved automatically or manually
+- Vendor can enable / disable their products
+- Product gets de-activated / deleted when Vendors are disabled / deleted
+- Vendors can import & export products in bulk via CSV file
+- Customer can purchase the product from various vendors / sellers at once
+- Admin can enable / disable notification email for Order, Vendor / Product anytime
+- Using Email Templates, seller will receive product sold notification email with their product details
+- Separate section for managing Vendors including their commissions, avatars, transactions etc
+- You can set different commission rates for different vendors
+- View complete account statement with credit & debit transactions for each Vendor
+- Admin can record offline transactions for each Vendor
+- Vendor-Customer Messaging feature lets the customers to reach their vendors more easily
+- Customers can provide feedback for products which creates Vendor ratings automatically
+- Allow vendors to save their paypal and stripe details into their profile
+- Magemo Mobile App for your Multi-vendor Marketplace stores
+- Free Lifetime upgrade for our Customers
+- Source code is Open so can be easily customized
+- Medma Marketplace Extension is now compatible with Magento 2.x version
+- Regularly adding many useful features in the extension
 
 ## More features & Demo
 

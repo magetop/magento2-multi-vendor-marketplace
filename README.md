@@ -32,7 +32,7 @@
 - Medma Marketplace Extension is now compatible with Magento 2.x version
 - Regularly adding many useful features in the extension
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-multi-vendor-marketplace-extension.html
 - Seller dashboard : https://magento2.demo.magetop.com/marketplace/marketplace/seller/dashboard

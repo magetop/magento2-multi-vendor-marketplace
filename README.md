@@ -1,4 +1,4 @@
-# Magento 2 Multi Vendor Marketplace by MageTop
+# Magento 2 Multi Vendor Marketplace by Magetop
 
 **Magento 2 Multi Vendor Marketplace Extension** by Magetop transforms your B2B, B2C or C2C online store into a thriving ecommerce marketplace similar to Amazon, Ebay, Etsy, Alibaba, Aliexpress. Using Marketplace Module for Magento 2, the seller can manage the inventory, shipment, Seller Profile page, Seller Collection page and many more ...
 
@@ -36,6 +36,7 @@
 
 - Extension details : https://www.magetop.com/magento-2-multi-vendor-marketplace-extension.html
 - Seller dashboard : https://magento2.demo.magetop.com/marketplace/marketplace/seller/dashboard
+- Frontend demo : https://magento2.demo.magetop.com/marketplace/marketplace
 - Backend demo : https://magento2.demo.magetop.com/marketplace/admin
 
 ## Support & Contact info

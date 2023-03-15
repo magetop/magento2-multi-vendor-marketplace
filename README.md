@@ -35,9 +35,9 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-multi-vendor-marketplace-extension.html
-- Seller dashboard : https://magento2.demo.magetop.com/marketplace/marketplace/seller/dashboard
-- Frontend demo : https://magento2.demo.magetop.com/marketplace/marketplace
-- Backend demo : https://magento2.demo.magetop.com/marketplace/admin
+- Seller dashboard : https://demo.magetop.com/marketplace/marketplace/seller/dashboard
+- Frontend demo : https://demo.magetop.com/marketplace/marketplace
+- Backend demo : https://demo.magetop.com/marketplace/admin
 
 ## Support & contact info
 
